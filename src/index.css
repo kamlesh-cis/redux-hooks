@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.delete-btn {
+  color: red;
+  margin-left: 5px;
+  border: 'redis 2px solid';
+}
